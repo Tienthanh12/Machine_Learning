@@ -26,13 +26,10 @@
 #######################################################################################
 
 # Personal information
-FIRSTNAME: Eric
-LASTNAME:  Eaton
-PENNKEY:   eeaton
-PENNID:    123456
+FIRSTNAME: Thanh    
+LASTNAME:  Tran Tien 
+EID: 20213732
 
-# Which course are you enrolled in?  (enter 419 or 519)
-COURSE:  419 
 
 
 # List all sources of help that you consulted while completing this assignment 
